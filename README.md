@@ -1,2 +1,12 @@
-# my-wiki
-record sth
+# 📓 My Learning Wiki
+
+> 记录成长的点点滴滴。
+
+## 📂 快速导航
+*   [📅 每日记录](./Daily)
+*   [💡 核心知识](./Concepts)
+*   [🛠️ 实操手册](./How-to)
+*   [🚀 实践项目](./Projects)
+
+---
+*最近更新：2026-04-06 - 基地正式落成！*
